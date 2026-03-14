@@ -5,6 +5,9 @@ Built a dynamic Sales Performance Dashboard in Excel to analyze revenue trends, 
 
 This project focuses on building stable KPI logic outside PivotTables to avoid slicer-related errors.
 
+
+
+
 ---
 
 ## 🎯 Business Problem
